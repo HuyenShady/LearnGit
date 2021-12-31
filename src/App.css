@@ -1,0 +1,7 @@
+.App {
+  text-align: center;
+  color:red;
+}
+.App:hover{
+  color:blue;
+}
